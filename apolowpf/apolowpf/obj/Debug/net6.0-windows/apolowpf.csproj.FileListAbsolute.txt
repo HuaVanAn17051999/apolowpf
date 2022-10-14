@@ -1,0 +1,59 @@
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.exe
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.deps.json
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.runtimeconfig.json
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.dll
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\ref\apolowpf.dll
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.pdb
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.csproj.AssemblyReference.cache
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\Page2.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Item.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\ItemNomal.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf_MarkupCompile.cache
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf_MarkupCompile.lref
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\Page2.baml
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Item.baml
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\ItemNomal.baml
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.g.resources
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.AssemblyInfoInputs.cache
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.AssemblyInfo.cs
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.csproj.CoreCompileInputs.cache
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.dll
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\ref\apolowpf.dll
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.pdb
+C:\Users\bxhcp\source\repos\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.genruntimeconfig.cache
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.exe
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.deps.json
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.runtimeconfig.json
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.dll
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\ref\apolowpf.dll
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\bin\Debug\net6.0-windows\apolowpf.pdb
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\ItemNomal.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf_MarkupCompile.cache
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf_MarkupCompile.lref
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\ItemNomal.baml
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.g.resources
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.AssemblyInfoInputs.cache
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.AssemblyInfo.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.csproj.CoreCompileInputs.cache
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.dll
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\ref\apolowpf.dll
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.pdb
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\apolowpf.genruntimeconfig.cache
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach1DangDoi.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach2.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach3.g.cs
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach1DangDoi.baml
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach2.baml
+C:\Users\Hua Van An\Downloads\apolowpf\apolowpf\apolowpf\obj\Debug\net6.0-windows\UseControl\Khach3.baml
